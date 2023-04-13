@@ -1,0 +1,5 @@
+baseUrl: https://fego.vmos-demo.com
+loginUrl: https://fego.vmos-demo.com/account/auth/login
+username: admin@craterapp.com
+password: crater@123
+browser: chrome
